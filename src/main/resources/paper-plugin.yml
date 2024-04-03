@@ -1,0 +1,4 @@
+name: RTP
+version: '${project.version}'
+main: org.randomtp.rtp.RTP
+api-version: '1.20'

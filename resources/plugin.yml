@@ -1,0 +1,5 @@
+name: RandomTP
+api: 1.17
+version: 1.0.0
+author: Kqbey
+main: org.randomtp.rtp.RTP
